@@ -15,7 +15,8 @@ It is designed to be leakage-safe and CPU-friendly.
 
 Data
 
-Public SemEval-2017 RumourEval (PHEME) threads (reply trees, timestamps, text). No live scraping. --> Link: https://alt.qcri.org/semeval2017/task8/index.php?id=data-and-tools
+Public SemEval-2017 RumourEval (PHEME) threads (reply trees, timestamps, text). No live scraping. 
+--> Dataset Link: https://alt.qcri.org/semeval2017/task8/index.php?id=data-and-tools
 
 Labels: top-decile at 6h (binary), size at 24h (regression).
 
