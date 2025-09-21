@@ -1,5 +1,5 @@
 # Matjaz-Fras---CM3070-UoL-Final-Project
-## EXTREMELY IMPORTANT MESSAGE REALTED TO VIEWING MY MAIN NOTEBOOK!
+## EXTREMELY IMPORTANT MESSAGE RELATED TO VIEWING MY MAIN JUPYTER NOTEBOOK!
 
 Since my main Jupyter Notebook final code file (CM3070_FinalCode_UoL_matjazfras_FINALISED) is too big to view on GitHub (since all the outputs are printed), please view it through this link if you do not wish to download it directly (you can still download it from GitHub so that part is fine):
 
