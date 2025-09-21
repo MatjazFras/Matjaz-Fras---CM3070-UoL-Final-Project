@@ -36,5 +36,12 @@ Metrics: macro-F1 (primary), ROC-AUC, log-loss, Brier, accuracy; MAE/RMSE/NRMSE/
 Headline TEST results: RF macro-F1 ≈ 0.883 (log-loss 0.169; Brier 0.046; ~3 ms/sample).
 LSTM: MAE 8.88, RMSE 19.16, NRMSE 0.857, sMAPE 0.406; SARIMAX(exog) is a strong lightweight baseline.
 
+----------
 
-Thanks for Reading! :)
+Note: Alongside my main Final Code Jupyter Notebook (CM3070_FinalCode_UoL_matjazfras_FINALISED), I also included my initial Feature Protoype ( (Extra) CM3070_Feature_prototype_UoL_matjazfras_FINALISED) for the sake of completeness. Only look at my Final Code Notebook when you mark however.
+
+----------
+
+Thank you so much for reading! :)
+
+
