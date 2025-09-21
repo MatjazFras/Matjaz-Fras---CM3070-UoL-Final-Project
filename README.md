@@ -38,7 +38,7 @@ LSTM: MAE 8.88, RMSE 19.16, NRMSE 0.857, sMAPE 0.406; SARIMAX(exog) is a strong 
 
 ----------
 
-Note: Alongside my main Final Code Jupyter Notebook (CM3070_FinalCode_UoL_matjazfras_FINALISED), I also included my initial Feature Protoype ( (Extra) CM3070_Feature_prototype_UoL_matjazfras_FINALISED) for the sake of completeness. Only look at my Final Code Notebook when you mark however.
+Note 1: Alongside my main Final Code Jupyter Notebook (CM3070_FinalCode_UoL_matjazfras_FINALISED), I also included my initial Feature Protoype ( (Extra) CM3070_Feature_prototype_UoL_matjazfras_FINALISED) for the sake of completeness. Only look at my Final Code Notebook when you mark however.
 
 ----------
 
