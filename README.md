@@ -5,7 +5,7 @@ Since my main Jupyter Notebook final code file (CM3070_FinalCode_UoL_matjazfras_
 
 https://nbviewer.org/github/MatjazFras/Matjaz-Fras---CM3070-UoL-Final-Project/blob/main/CM3070_FinalCode_UoL_matjazfras_FINALISED.ipynb
 
-As a side note, some outputs will be off by a bit, since I swapped systems and ran the code again on new one. Had some trouble with Python and all of the libraries, but the difference in printed results is negligible (like a difference of 0.01 - 0.02 in a classification report for example). That is why my written report may list slightly different variables than the ones you will see in my reran code.
+### As a side note, some outputs will be off by a bit, since I swapped systems and ran the code again on a new one in the last week of the submission deadline. Had some trouble with Python and all of the libraries, but the difference in printed results is negligible (like a difference of 0.01 - 0.02 in a classification report for example). That is why my written report may list slightly different variables than the ones you will see in my reran code.
 ----------
 # Early Twitter Cascade Emergence — Final Project (CM3070 Using the CM3005 Template, Idea #2)
 
